@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d0328c211bd5f510a386c8851a4bcb6b" extends="task" label="Sample" max_length="40" name="x_snc_sample_appli_sample" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Sampledate" max_length="40" name="sampledate" type="glide_date_time"/>
+    </element>
+</database>
